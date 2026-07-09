@@ -1,5 +1,6 @@
 # Lead-Generation-Data-Automation-Dashboard
 =======
+
 LeadFlow Generation is an API-first automation and web intelligence project.
 It collects public data from reliable API/feed sources, stores it in SQLite, exports Excel/CSV files, and opens an interactive Streamlit dashboard.
 
@@ -26,14 +27,6 @@ Windows PowerShell:
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
-
-Copy `.env.example` and rename it to `.env`.
-Add your GitHub token:
-
-```env
-GITHUB_TOKEN=your_token_here
-```
-
 ## One-command run
 
 ```powershell
