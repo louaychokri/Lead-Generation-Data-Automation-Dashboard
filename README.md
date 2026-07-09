@@ -1,9 +1,6 @@
 # Lead-Generation-Data-Automation-Dashboard
-Leadflow Generation is a Python-based lead generation and web intelligence automation dashboard. It collects data from multiple public sources, stores results in SQLite, and provides a Streamlit dashboard for filtering, searching, status tracking, and exporting results.
 =======
-# LeadFlow Pro
-
-LeadFlow Pro is an API-first automation and web intelligence project.
+LeadFlow Generation is an API-first automation and web intelligence project.
 It collects public data from reliable API/feed sources, stores it in SQLite, exports Excel/CSV files, and opens an interactive Streamlit dashboard.
 
 ## Sources
